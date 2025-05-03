@@ -13,8 +13,8 @@ This repository contains a hybrid ensemble model to predict whether a sales quot
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bibekbastola946/sales-quote-predictor.git
-cd sales-quote-predictor
+git clone https://github.com/bibekbastola946/sales-quote-prediction.git
+cd sales-quote-prediction
 ```
 
 ### 2. Set Up the Environment
